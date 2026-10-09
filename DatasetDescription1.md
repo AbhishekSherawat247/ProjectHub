@@ -25,8 +25,5 @@ The dataset contains 3,500 potato leaf images distributed equally across seven c
 - **Preprocessing:** Image resizing and normalization
 - **Data augmentation:** Applied only to training images
 
-## Advantages of a Balanced Dataset
-
-A balanced dataset provides an equal number of images for each category. This can reduce bias toward classes with more samples and make class-wise performance comparisons more meaningful.
 
 **Note:** Confirm that the Potato Cyst Nematode folder actually contains 500 images before publishing these counts.
