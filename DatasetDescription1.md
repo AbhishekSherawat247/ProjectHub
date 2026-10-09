@@ -15,15 +15,3 @@ The dataset contains 3,500 potato leaf images distributed equally across seven c
 | 7 | Potato Virus | 500 | Images representing potato plants affected by viral diseases. |
 | **Total** | **7 Categories** | **3,500** | **Balanced dataset with 500 images per category.** |
 
-## Dataset Summary
-
-- **Total images:** 3,500
-- **Number of categories:** 7
-- **Images per category:** 500
-- **Class distribution:** Balanced
-- **Application:** Potato leaf disease classification using deep learning
-- **Preprocessing:** Image resizing and normalization
-- **Data augmentation:** Applied only to training images
-
-
-**Note:** Confirm that the Potato Cyst Nematode folder actually contains 500 images before publishing these counts.
