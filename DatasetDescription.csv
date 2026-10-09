@@ -1,9 +1,0 @@
-S.No,Category,Number_of_Images,Description
-1,Early Blight,500,"Fungal disease that causes dark lesions, often with concentric rings."
-2,Fungal Diseases,500,"Images labelled as fungal diseases in the dataset."
-3,Healthy,500,"Potato leaves without visible disease symptoms."
-4,Late Blight,500,"Disease that can cause irregular dark lesions on potato leaves."
-5,Plant Pests,500,"Images showing pests or pest-related damage."
-6,Potato Cyst Nematode,500,"Images associated with a soil-borne nematode affecting potato roots."
-7,Potato Virus,500,"Images representing potato plants affected by viral diseases."
-Total,All Categories,3500,"Balanced dataset with 500 images per category."
